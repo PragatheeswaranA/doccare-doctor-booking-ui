@@ -1,6 +1,6 @@
 # DocCare - Doctor Booking App 🏥
 
-![App Preview](menu%20screen.png)
+![App Preview](home-screen.png)
 
 ## 📌 Overview
 DocCare is a UI/UX design project for a doctor appointment booking mobile application designed using Figma. The goal is to simplify the process of finding doctors and booking appointments online.
